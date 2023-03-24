@@ -21,6 +21,7 @@ public List<Tasmota>? Tasmotas
 
 try
 {
+    // TODO Set the IP scan range
     var run = true;
     var c = 1;
     var actions = new[]

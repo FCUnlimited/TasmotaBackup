@@ -6,6 +6,11 @@ For this the basic steps are:
 3. Download the config files of the devices
 4. Save them local
 
+# ToDos
+- At the moment it only scans from 192.168.178.1 to .255
+- The backup process itselfs gives no feedback, only the table.
+- exe is not created yet
+
 # How to use
 There are two possibilities how to get this running.
 You can download the exe file and just run it or you can use dotnet-script.
